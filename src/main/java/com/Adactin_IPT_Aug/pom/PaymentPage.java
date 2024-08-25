@@ -5,8 +5,6 @@ import org.openqa.selenium.support.FindBy;
 
 public class PaymentPage implements Payment{
 
-		
-
 	@FindBy(name = firstname_name)
 	private WebElement firstname;
 
